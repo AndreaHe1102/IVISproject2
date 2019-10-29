@@ -4,4 +4,4 @@ Individual project, number 2, for the course DH2321 Information Visualization at
 
 Task: visualise data from WVS - http://www.worldvaluessurvey.org/wvs.jsp
 
-This project is created with the help of D3.js
+This project is completed with the help of D3.js
